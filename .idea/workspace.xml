@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="496b4ecd-b6ad-49ac-9a64-375ff600f669" name="Changes" comment="!" />
+    <list default="true" id="496b4ecd-b6ad-49ac-9a64-375ff600f669" name="Changes" comment="!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DimaK128/ApplicationForm.git",
-    "accountId": "c53774dc-d897-4b9a-91e6-e468be76e7ce"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DimaK128&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DimaK128/ApplicationForm.git&quot;,
+    &quot;accountId&quot;: &quot;c53774dc-d897-4b9a-91e6-e468be76e7ce&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -69,7 +77,8 @@
       <workItem from="1715420653346" duration="2111000" />
       <workItem from="1715431196061" duration="1185000" />
       <workItem from="1715499600614" duration="3334000" />
-      <workItem from="1715503030147" duration="374000" />
+      <workItem from="1715503030147" duration="510000" />
+      <workItem from="1715503629474" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="!">
       <option name="closed" value="true" />
@@ -79,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715503223017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="!">
+      <option name="closed" value="true" />
+      <created>1715503456691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715503456691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
