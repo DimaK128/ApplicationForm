@@ -1,8 +1,0 @@
-Application Report:
-Name: Dmytro
-Surname: Kolesnyk
-Email: dima06kol@gmail.com
-Phone: 0500545600
-Date of Birth: 2006-06-22
-Gender: Male
-Specialty: BDS

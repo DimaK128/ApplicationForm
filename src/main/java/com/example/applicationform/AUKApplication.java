@@ -96,7 +96,7 @@ public class AUKApplication extends Application {
 
             if (nameField.getText().trim().isEmpty()) {
                 nameErrorLabel.setText("* Name cannot be empty.");
-                nameErrorLabel.setTextFill(Color.RED); // Установка красного цвета
+                nameErrorLabel.setTextFill(Color.RED);
                 valid = false;
             } else {
                 nameErrorLabel.setText("");
@@ -104,7 +104,7 @@ public class AUKApplication extends Application {
 
             if (surnameField.getText().trim().isEmpty()) {
                 surnameErrorLabel.setText("* Surname cannot be empty.");
-                surnameErrorLabel.setTextFill(Color.RED); // Установка красного цвета
+                surnameErrorLabel.setTextFill(Color.RED);
                 valid = false;
             } else {
                 surnameErrorLabel.setText("");
@@ -112,7 +112,7 @@ public class AUKApplication extends Application {
 
             if (!emailField.getText().contains("@")) {
                 emailErrorLabel.setText("* Invalid email address.");
-                emailErrorLabel.setTextFill(Color.RED); // Установка красного цвета
+                emailErrorLabel.setTextFill(Color.RED);
                 valid = false;
             } else {
                 emailErrorLabel.setText("");
